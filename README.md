@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is a work-in-progress, but for now, nice to meet you! I like cybersecurity, and I soon hope to become an analyst.
 <!--
 **dsuyu1/dsuyu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
