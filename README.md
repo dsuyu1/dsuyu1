@@ -1,16 +1,57 @@
-## Hi there 👋
-This is a work-in-progress, but for now, nice to meet you! I like cybersecurity, and I soon hope to become an analyst.
+## Hello, I'm Damian👋
+<a href="https://www.linkedin.com/in/damivilla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am an undergraduate student with a deep interest in cybersecurity and a love for learning!
+
+## Objective
+My journey in computer science has led me to develop a passion for cybersecurity, and I hope to soon work as a Security Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Mapping Logical Network Topologies            | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer)|
+| Python in Cybersecurity                       | [cbspython](https://github.com/dsuyu1/cbspython)|
+
 <!--
-**dsuyu1/dsuyu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+-->
+## Technical Certifications
+<div>
+  
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-blue?logo=google)](https://coursera.org/share/a7e24b15803459cd69ec413d812c136f)
+
+
+
+</div>
+
+<!--
+## Non-Technical Certifications
+
+
+## Projects
+- Detection Lab
+- SOC Automation Project
 -->
