@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Mapping Logical Network Topologies            | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer)|
+| Mapping Network Topologies            | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer)|
 | Python in Cybersecurity                       | [cbspython](https://github.com/dsuyu1/cbspython)|
 
 <!--
