@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
 | Endpoint Virtualization    | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/main/soc-automation-project/2-endpointvirtualization.md) |
 | Sysmon | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/6913355c733b128be2b686e97784cb19bdde07e5/soc-automation-project) |
+| Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/6913355c733b128be2b686e97784cb19bdde07e5/soc-automation-project) |
 
 <!--
 
