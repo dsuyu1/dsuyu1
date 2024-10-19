@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Mapping Network Topologies            | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer), [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/main/soc-automation-project/1-mapping.md)|
-| Python (Cybersecurity)                       | [cbspython](https://github.com/dsuyu1/cbspython)|
+| Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
 | Endpoint Virtualization    | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/506e609640c2f81d632a5e1848ca9b4811b855c0/soc-automation-project/2-endpointvirtualization.md) |
 | System Monitor (Sysmon) | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/6913355c733b128be2b686e97784cb19bdde07e5/soc-automation-project) |
 
