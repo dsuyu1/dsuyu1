@@ -6,7 +6,7 @@ I am an undergraduate student working as an RSOC Student Analyst with my univers
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I hope to soon work as a Security Analyst.
 
-## Skills
+## Projects and Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
