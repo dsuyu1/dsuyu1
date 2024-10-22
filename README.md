@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Endpoint Virtualization    | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/main/soc-automation-project/2-endpointvirtualization.md) |
 | Sysmon | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/main/soc-automation-project) |
 | Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/main/soc-automation-project) |
+| OpenSSH | [Soc Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/main/soc-automation-project/2.21-opensshinstall.md) |
 
 <!--
 
