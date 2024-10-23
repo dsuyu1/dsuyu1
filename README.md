@@ -5,7 +5,7 @@ I am an undergraduate student working as an RSOC Student Analyst at my universit
 ### My Blog
 I have a blog on Medium where I post my notes on topics I'm currently learning about! Feel free to check it out [here](https://medium.com/@dsuyu). I go over topics such as TCP/IP, IPv4, protocols, and more!
 
-## Objective
+### Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I hope to soon work as a Security Analyst.
 
 <div align="center">
