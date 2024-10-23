@@ -1,13 +1,14 @@
 # Hello, I'm Damian👋
 <a href="https://www.linkedin.com/in/damivilla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an undergraduate student working as an RSOC Student Analyst with my university! I have a deep interest in cybersecurity and a love for learning!
+I am an undergraduate student working as an RSOC Student Analyst with my university! I have a deep interest in cybersecurity and a love for learning! 
+### My Blog
+I have a blog where I post topics I'm currently learning about! Feel free to check it out [here](https://medium.com/@dsuyu).
 
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I hope to soon work as a Security Analyst.
 
 ## Projects and Skills
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Mapping Network Topologies            | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer), [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/main/soc-automation-project/1-mapping.md)|
