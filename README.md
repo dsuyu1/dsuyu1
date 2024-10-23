@@ -7,8 +7,6 @@ I have a blog on Medium where I post my notes on topics I'm currently learning a
 
 ### Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I hope to soon work as a Security Analyst.
-
-<div align="center">
     
 ## Projects and Skills
 | Skill                                         | Associated Project         |
@@ -19,8 +17,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Sysmon | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/main/soc-automation-project) |
 | Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/main/soc-automation-project) |
 | OpenSSH | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/main/soc-automation-project/2.21-opensshinstall.md) |
-
-</div>
 
 <!--
 
