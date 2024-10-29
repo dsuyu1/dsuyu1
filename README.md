@@ -11,11 +11,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects and Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Mapping Network Topologies | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer), [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/main/soc-automation-project/1-mapping.md)|
+| Mapping Network Topologies | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer), [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project)|
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
-| Endpoint Virtualization    | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/blob/main/soc-automation-project/2-endpointvirtualization.md) |
-| Sysmon | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/main/soc-automation-project) |
-| Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/soc-automation-project/tree/main/soc-automation-project) |
+| Endpoint Virtualization    | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
+| Sysmon | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
+| Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Penetration Testing/Ethical Hacking | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box) |
 | Java | [Java CSCI 3326](https://github.com/dsuyu1/Java-CSCI3326) |
 
