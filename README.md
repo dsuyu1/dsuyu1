@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Sysmon | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Penetration Testing/Ethical Hacking | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box) |
-| Java | [Java CSCI 3326](https://github.com/dsuyu1/Java-CSCI3326) |
+| Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
 
 <!--
 
