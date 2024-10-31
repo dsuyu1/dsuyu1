@@ -1,8 +1,11 @@
 # Hello, I'm Damian👋
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/dsuyu.png" width="300" />
 <a href="https://www.linkedin.com/in/damivilla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://app.hackthebox.com/users/2124163"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" /></a>
 <a href="https://medium.com/@dsuyu"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://app.hackthebox.com/users/2124163"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" /></a>
+<a href="https://cyberdefenders.org/p/dsuyu"><img src="https://img.shields.io/badge/-CyberDefenders-0056b3?&style=for-the-badge&logo=CyberDefenders&logoColor=white" /></a>
+
+
+
 <br>
 
 I am an undergraduate student working as an RSOC Student Analyst at my university! I have a deep interest in cybersecurity and a love for learning! 
