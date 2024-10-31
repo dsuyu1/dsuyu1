@@ -28,31 +28,26 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
 
-<!--
-
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="https://www.wireshark.org/"><img src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png" length = 100, width = 100></a>
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" length="100", width="100"></a>
 </div>
--->
+
+### SOAR
+<div>
+    <a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" length = "50", width = "50"></a>
+</div>
+
+### Incident Response
+<div>
+    <a href="https://github.com/TheHive-Project/TheHive"><img src="https://github.com/TheHive-Project/TheHive/blob/main/images/thehive-logo.png?raw=true" length = "100", width = "100"></a>
+</div>
 
 ## Technical Certifications
 <div>
