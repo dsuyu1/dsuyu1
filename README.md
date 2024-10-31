@@ -12,15 +12,21 @@ I have a blog on Medium where I post my notes on topics I'm currently learning a
 My journey in computer science has led me to develop a passion for cybersecurity, and I hope to soon work as a Security Analyst.
     
 ## Projects and Skills
+### Cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Mapping Network Topologies | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer), [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project)|
-| Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
 | Endpoint Virtualization    | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Sysmon | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Penetration Testing/Ethical Hacking | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box) |
+
+
+### Software Developement
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
+| Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
 
 <!--
 
