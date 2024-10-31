@@ -1,5 +1,7 @@
 # Hello, I'm Damian👋
 <a href="https://www.linkedin.com/in/damivilla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@dsuyu"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 
 I am an undergraduate student working as an RSOC Student Analyst at my university! I have a deep interest in cybersecurity and a love for learning! 
 ### My Blog
