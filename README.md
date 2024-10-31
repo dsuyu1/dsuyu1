@@ -28,7 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Penetration Testing/Ethical Hacking | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box), [TryHackMe](https://github.com/dsuyu1/TryHackMe)|
 | Packet Analysis | [Wireshark](https://github.com/dsuyu1/Wireshark) |
-| SQL | [TryHackMe]() |
+| SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
 
 
 ### Software Development
