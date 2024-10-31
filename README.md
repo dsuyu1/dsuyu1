@@ -41,7 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SOAR
 <div>
-    <a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" length = "50", width = "50"></a>
+    <a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" length = "40", width = "40"></a>
 </div>
 
 ### Incident Response
