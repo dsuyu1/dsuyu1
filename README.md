@@ -65,3 +65,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Detection Lab
 - SOC Automation Project
 -->
+<br>
+
+<div align="center">
+    <img src="https://media.tenor.com/1re8tSKaslIAAAAj/peach-cat-goma.gif" alt="Peach Cat" height="150" />
+    
+</div>
