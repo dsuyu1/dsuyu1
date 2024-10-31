@@ -68,6 +68,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <br>
 
 <div align="center">
-    <img src="https://media.tenor.com/1re8tSKaslIAAAAj/peach-cat-goma.gif" alt="Peach Cat" height="150" />
+    <img src="https://media.tenor.com/1re8tSKaslIAAAAj/peach-cat-goma.gif" alt="Peach Cat" height="100" />
     
 </div>
