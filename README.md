@@ -29,7 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Penetration Testing/Ethical Hacking | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box) |
 
 
-### Software Developement
+### Software Development
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
