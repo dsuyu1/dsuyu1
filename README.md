@@ -11,6 +11,7 @@ I am an undergraduate student working as an RSOC Student Analyst at my universit
 ### My Blog
 I have a blog on Medium where I post my notes on topics I'm currently learning about! Feel free to check it out [here](https://medium.com/@dsuyu). I go over all sorts of cybersecurity and IT concepts, for example:
 - [Intro to Malware, Threats, and Vulnerabilities](https://medium.com/@dsuyu/intro-to-malware-threats-and-vulnerabilities-e5ffa455badb)
+- [Some Components of Network Security: Firewalls, VPNs, and more!](https://medium.com/@dsuyu/some-components-of-network-security-7959c0937d0f)
 - [Intro to Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf), and many more!
 
 ### Objective
