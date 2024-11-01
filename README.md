@@ -5,15 +5,13 @@
 <a href="https://tryhackme.com/r/p/dsuyu"><img src="https://img.shields.io/badge/-TryHackMe-2d3748?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <!-- <a href="https://cyberdefenders.org/p/dsuyu"><img src="https://img.shields.io/badge/-CyberDefenders-0056b3?&style=for-the-badge&logo=CyberDefenders&logoColor=white" /></a> !-->
 
-
-
-
-
 <br>
 
 I am an undergraduate student working as an RSOC Student Analyst at my university! I have a deep interest in cybersecurity and a love for learning! 
 ### My Blog
-I have a blog on Medium where I post my notes on topics I'm currently learning about! Feel free to check it out [here](https://medium.com/@dsuyu). I go over all sorts of cybersecurity and IT concepts!
+I have a blog on Medium where I post my notes on topics I'm currently learning about! Feel free to check it out [here](https://medium.com/@dsuyu). I go over all sorts of cybersecurity and IT concepts, for example:
+- [Intro to Malware, Threats, and Vulnerabilities](https://medium.com/@dsuyu/intro-to-malware-threats-and-vulnerabilities-e5ffa455badb)
+- [Intro to Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf), and many more!
 
 ### Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I hope to soon work as a Security Analyst.
