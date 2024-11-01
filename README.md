@@ -13,9 +13,6 @@ I have a blog on Medium where I post my notes on topics I'm currently learning a
 - [Intro to Malware, Threats, and Vulnerabilities](https://medium.com/@dsuyu/intro-to-malware-threats-and-vulnerabilities-e5ffa455badb)
 - [Some Components of Network Security: Firewalls, VPNs, and more!](https://medium.com/@dsuyu/some-components-of-network-security-7959c0937d0f)
 - [Intro to Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf), and many more!
-
-### Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I hope to soon work as a Security Analyst.
     
 ## Projects and Skills
 ### Cybersecurity
