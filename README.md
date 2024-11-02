@@ -1,7 +1,6 @@
 # Hello, I'm Damian👋
 <a href="https://www.linkedin.com/in/damivilla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@dsuyu"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://app.hackthebox.com/users/2124163"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" /></a>
 <a href="https://tryhackme.com/r/p/dsuyu"><img src="https://img.shields.io/badge/-TryHackMe-2d3748?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <!-- <a href="https://cyberdefenders.org/p/dsuyu"><img src="https://img.shields.io/badge/-CyberDefenders-0056b3?&style=for-the-badge&logo=CyberDefenders&logoColor=white" /></a> !-->
 
