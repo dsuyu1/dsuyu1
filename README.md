@@ -40,7 +40,8 @@ I have a blog on Medium where I post my notes on topics I'm currently learning a
 
 ### SIEM
 <div>
-    <a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" length="100", width="100"></a>    
+    <a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" length="100", width="100"></a>
+    <a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" length = 100, width = 100></a>
 </div>
 
 ### SOAR
@@ -50,7 +51,7 @@ I have a blog on Medium where I post my notes on topics I'm currently learning a
 
 ### XDR
 <div>
-    <img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" length = 100, width = 100>
+    <a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" length = 100, width = 100></a>
 </div>
 
 ### Incident Response
