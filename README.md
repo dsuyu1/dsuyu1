@@ -40,12 +40,17 @@ I have a blog on Medium where I post my notes on topics I'm currently learning a
 
 ### SIEM
 <div>
-    <a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" length="100", width="100"></a>
+    <a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" length="100", width="100"></a>    
 </div>
 
 ### SOAR
 <div>
     <a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" length = "40", width = "40"></a>
+</div>
+
+### XDR
+<div>
+    <img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" length = 100, width = 100>
 </div>
 
 ### Incident Response
