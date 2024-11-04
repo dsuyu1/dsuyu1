@@ -36,6 +36,7 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
+| Redis | [HackTheBox](https://github.com/dsuyu1/Hack-The-Box/blob/main/startingpoint/4-redeemer/redeemerpwned.md) |
 
 ## Tools
 ### Network
