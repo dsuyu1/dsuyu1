@@ -30,7 +30,7 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 |-----------------------------------------------|----------------------------|
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
-| JavaScript | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/3-JavaScript%20Essentials) |
+| JavaScript | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/3-JavaScript%20Essentials), [Codecademy](https://www.codecademy.com/profiles/dsuyu) |
 
 ### Database Management
 | Skill                                         | Associated Project         |
