@@ -23,14 +23,15 @@ I have a blog on Medium where I post my notes on topics I'm currently learning a
 | Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Penetration Testing/Ethical Hacking | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box), [TryHackMe](https://github.com/dsuyu1/TryHackMe)|
 | Packet Analysis | [Wireshark](https://github.com/dsuyu1/Wireshark) |
-| SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
 
 
-### Software Development
+### Software and Programming
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
+| SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
+| JavaScript | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/3-JavaScript%20Essentials) |
 
 ## Tools
 ### Network
