@@ -8,10 +8,10 @@
 
 I am an undergraduate student working as an RSOC Student Analyst at my university! I have a deep interest in cybersecurity and a love for learning! 
 ### My Blog
-I have a blog on Medium where I post my notes on topics I'm currently learning about! Feel free to check it out [here](https://medium.com/@dsuyu). I go over all sorts of cybersecurity and IT concepts, for example:
-- [Intro to Malware, Threats, and Vulnerabilities](https://medium.com/@dsuyu/intro-to-malware-threats-and-vulnerabilities-e5ffa455badb)
-- [Some Components of Network Security: Firewalls, VPNs, and more!](https://medium.com/@dsuyu/some-components-of-network-security-7959c0937d0f)
-- [Intro to Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf), and many more!
+Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybersecurity and IT concepts, including:
+- [Malware, Threats, and Vulnerabilities](https://medium.com/@dsuyu/intro-to-malware-threats-and-vulnerabilities-e5ffa455badb)
+- [Network Security Components](https://medium.com/@dsuyu/some-components-of-network-security-7959c0937d0f)
+- [Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf)
     
 ## Projects and Skills
 ### Cybersecurity
