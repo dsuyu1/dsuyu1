@@ -25,13 +25,17 @@ I have a blog on Medium where I post my notes on topics I'm currently learning a
 | Packet Analysis | [Wireshark](https://github.com/dsuyu1/Wireshark) |
 
 
-### Software and Programming
+### Software Development 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
-| SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
 | JavaScript | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/3-JavaScript%20Essentials) |
+
+### Database Management
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
 
 ## Tools
 ### Network
