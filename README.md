@@ -60,7 +60,7 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
       </td>
       <td><a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" width="50"></a></td>
       <td><a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" width="100"></a></td>
-      <td><a href="https://github.com/TheHive-Project/TheHive"><img src="https://github.com/TheHive-Project/TheHive/blob/main/images/thehive-logo.png?raw=true" width="100"></a></td>
+      <td><a href="https://github.com/TheHive-Project/TheHive"><img src="https://github.com/TheHive-Project/TheHive/blob/main/images/thehive-logo.png?raw=true" width="110"></a></td>
     </tr>
   </table>
 </div>
