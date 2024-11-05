@@ -54,13 +54,17 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
     </tr>
     <tr>
       <td><a href="https://www.wireshark.org/"><img src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png" width="60" /></a></td>
-      <td><a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" width="100"></a></td>
+      <td>
+        <a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" width="100"></a><br>
+        <a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" width="60"></a>
+      </td>
       <td><a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" width="60"></a></td>
       <td><a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" width="60"></a></td>
       <td><a href="https://github.com/TheHive-Project/TheHive"><img src="https://github.com/TheHive-Project/TheHive/blob/main/images/thehive-logo.png?raw=true" width="80"></a></td>
     </tr>
   </table>
 </div>
+
 
 
 ## Technical Certifications
