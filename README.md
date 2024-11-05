@@ -16,7 +16,7 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 ### 🏆 Favorite Projects
 - **[SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project)**  
    *Automating Security Operations Center tasks to improve response times and efficiency.*  
-   Key tools: **Wazuh, TheHive, Shuffle, Sysmon, Elastic, Virtual Machines**
+   Key tools: **Wazuh, TheHive, Shuffle, Sysmon, Elastic, VirtualBox**
   
 ### Cybersecurity
 | Skill                                         | Associated Project         |
