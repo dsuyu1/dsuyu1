@@ -14,6 +14,11 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 - [Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf)
     
 ## Projects and Skills
+### 🏆 Favorite Projects
+- **[SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project)**  
+   *Automating Security Operations Center tasks to improve response times and efficiency.*  
+   Key tools: **Wazuh, TheHive, Shuffle, Sysmon, Elastic, Virtual Machines**
+  
 ### Cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
