@@ -13,8 +13,8 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 - [Network Security Components](https://medium.com/@dsuyu/some-components-of-network-security-7959c0937d0f)
 - [Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf)
     
-## 🛠️ Projects and Skills
-### 🔐 Cybersecurity
+## Projects and Skills
+### Cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Mapping Network Topologies | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer), [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project)|
@@ -25,14 +25,14 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 | Packet Analysis | [Wireshark](https://github.com/dsuyu1/Wireshark) |
 
 
-### 💻 Software Development
+### Software Development
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
 | JavaScript | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/3-JavaScript%20Essentials), [Codecademy](https://www.codecademy.com/profiles/dsuyu) |
 
-### 🗄️ Database Management
+### Database Management
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
