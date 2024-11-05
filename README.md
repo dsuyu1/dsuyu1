@@ -45,31 +45,25 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 | Redis | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box/blob/main/startingpoint/4-redeemer/redeemerpwned.md) |
 
 ## Tools
-### Network
-<div>
-    <a href="https://www.wireshark.org/"><img src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png" length = 100, width = 100></a>
+<div align="center">
+  <table>
+    <tr>
+      <th>Network</th>
+      <th>SIEM</th>
+      <th>SOAR</th>
+      <th>XDR</th>
+      <th>Incident Response</th>
+    </tr>
+    <tr>
+      <td><a href="https://www.wireshark.org/"><img src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png" width="60" /></a></td>
+      <td><a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" width="100"></a></td>
+      <td><a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" width="60"></a></td>
+      <td><a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" width="60"></a></td>
+      <td><a href="https://github.com/TheHive-Project/TheHive"><img src="https://github.com/TheHive-Project/TheHive/blob/main/images/thehive-logo.png?raw=true" width="80"></a></td>
+    </tr>
+  </table>
 </div>
 
-### SIEM
-<div>
-    <a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" length="100", width="100"></a>
-    <a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" length = 100, width = 100></a>
-</div>
-
-### SOAR
-<div>
-    <a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" length = "40", width = "40"></a>
-</div>
-
-### XDR
-<div>
-    <a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" length = 100, width = 100></a>
-</div>
-
-### Incident Response
-<div>
-    <a href="https://github.com/TheHive-Project/TheHive"><img src="https://github.com/TheHive-Project/TheHive/blob/main/images/thehive-logo.png?raw=true" length = "100", width = "100"></a>
-</div>
 
 ## Technical Certifications
 <div>
