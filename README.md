@@ -53,6 +53,7 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
       <th>SIEM</th>
       <th>SOAR</th>
       <th>XDR</th>
+      <th>EDR</th>
       <th>Incident Response</th>
     </tr>
     <tr>
@@ -61,8 +62,12 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
         <a href="https://www.elastic.co/security/siem"><img src="https://www.kuppingercole.com/pics/logo-elastic-horizontal-color.png" width="100"></a><br>
         <a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" width="100"></a>
       </td>
-      <td><a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" width="50"></a></td>
+      <td>
+        <a href="https://shuffler.io/"><img src="https://shuffler.io/images/Shuffle_logo.png" width="50"></a>
+        <a href="https://www.tines.com/"><img src="https://www.armis.com/wp-content/uploads/2024/08/TinesLogoPurple500.png" width = "100"></a>
+      </td>
       <td><a href="https://wazuh.com/"><img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" width="100"></a></td>
+      <td><a href="https://limacharlie.io/"><img src="https://images.ctfassets.net/8ypp714zy4gs/38PqUmNm6fYnMuHk9v5wTy/888017f6b2d8d8f2e83a4a38c4b56f1d/logo-500x500.png" width = "70"></a></td>
       <td><a href="https://github.com/TheHive-Project/TheHive"><img src="https://github.com/TheHive-Project/TheHive/blob/main/images/thehive-logo.png?raw=true" width="110"></a></td>
     </tr>
   </table>
