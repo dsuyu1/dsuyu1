@@ -19,7 +19,7 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
   
 - **[SOAR EDR Project](https://github.com/dsuyu1/SOAR-EDR-Project)**                                                   
   *Integrating SOAR and EDR to automate security workflows and enhance cybersecurity posture effectively.*                    
-  Key tools: **LimaCharlie, Tines**
+  Key tools: **LimaCharlie, Tines, Slack**
   
 ### Cybersecurity
 | Skill                                         | Associated Project         |
