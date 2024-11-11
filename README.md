@@ -40,13 +40,13 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
 | JavaScript | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/3-JavaScript%20Essentials), [Codecademy](https://www.codecademy.com/profiles/dsuyu) |
-
+<!--
 ### Database Management
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
 | Redis | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box/blob/main/startingpoint/4-redeemer/redeemerpwned.md) |
-
+-->
 ## Tools
 <div>
   <table>
