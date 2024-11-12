@@ -17,12 +17,6 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
   *Integrating SOAR and EDR to automate security workflows and enhance cybersecurity posture effectively.*                    
   Key tools: **LimaCharlie, Tines, Slack**
   
-- **[SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project)**  
-   *Automating Security Operations Center tasks to improve response times and efficiency.*  
-   Key tools: **Wazuh, TheHive, Shuffle, Sysmon, Elastic, VirtualBox**
-  
-
-  
 ### Cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
