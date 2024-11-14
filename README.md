@@ -16,6 +16,8 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 - **[SOAR EDR Project](https://github.com/dsuyu1/SOAR-EDR-Project)**                                                   
   *Integrating SOAR and EDR to automate security workflows and enhance cybersecurity posture effectively.*                    
   Key tools: **LimaCharlie, Tines, Slack**
+- **[30-Day SOC Analyst Challenge](https://github.com/dsuyu1/30-Day-SOC-Analyst-Challenge)**                             
+  *Currently a work in progress, come with me as I follow Steven on the 30-Day SOC Analyst Challenge!*
   
 ### Cybersecurity
 | Skill                                         | Associated Project         |
