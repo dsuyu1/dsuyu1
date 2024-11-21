@@ -25,9 +25,8 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 | Mapping Network Topologies | [Cisco Packet Tracer](https://github.com/dsuyu1/ciscopackettracer), [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project)|
 | Endpoint Virtualization    | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Sysmon | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
-| Wazuh (XDR, SIEM) | [SOC Automation Project](https://github.com/dsuyu1/SOC-Automation-Project) |
 | Penetration Testing/Ethical Hacking | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box), [TryHackMe](https://github.com/dsuyu1/TryHackMe)|
-| Packet Analysis | [Network Analysis Web Shell](https://github.com/dsuyu1/Network-Analysis-Web-Shell) |
+
 
 
 ### Software Development
@@ -35,7 +34,6 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 |-----------------------------------------------|----------------------------|
 | Java | [Java CSCI3326](https://github.com/dsuyu1/Java-CSCI3326) |
 | Python                     | [cbspython](https://github.com/dsuyu1/cbspython)|
-| JavaScript | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/3-JavaScript%20Essentials), [Codecademy](https://www.codecademy.com/profiles/dsuyu) |
 <!--
 ### Database Management
 | Skill                                         | Associated Project         |
