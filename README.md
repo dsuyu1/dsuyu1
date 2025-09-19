@@ -4,12 +4,15 @@
   <a href="https://tryhackme.com/r/p/dsuyu"><img src="https://img.shields.io/badge/-TryHackMe-2d3748?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <br>
 
+<!--
 I am an undergraduate student working as an RSOC Student Analyst at my university! I have a deep interest in cybersecurity and a love for learning! 
 ### My Blog
 Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybersecurity and IT concepts, including:
 - [Malware, Threats, and Vulnerabilities](https://medium.com/@dsuyu/intro-to-malware-threats-and-vulnerabilities-e5ffa455badb)
 - [Network Security Components](https://medium.com/@dsuyu/some-components-of-network-security-7959c0937d0f)
 - [Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf)
+
+-->
     
 ## Projects and Skills
 ### 🏆 Favorite Projects
@@ -18,7 +21,9 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
   Key tools: **LimaCharlie, Tines, Slack**
 - **[30-Day SOC Analyst Challenge](https://github.com/dsuyu1/30-Day-SOC-Analyst-Challenge)**                             
   *Currently a work in progress, come with me as I follow Steven on the 30-Day SOC Analyst Challenge!*
-  
+
+<!--
+
 ### Cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -40,7 +45,7 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 |-----------------------------------------------|----------------------------|
 | SQL | [TryHackMe](https://github.com/dsuyu1/TryHackMe/tree/main/2-SQL%20Fundamentals) |
 | Redis | [Hack The Box](https://github.com/dsuyu1/Hack-The-Box/blob/main/startingpoint/4-redeemer/redeemerpwned.md) |
--->
+
 ## Tools
 <div>
   <table>
@@ -80,7 +85,7 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 
 </div>
 
-<!--
+
 ## Non-Technical Certifications
 
 
@@ -94,3 +99,5 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
     <img src="https://media.tenor.com/1re8tSKaslIAAAAj/peach-cat-goma.gif" alt="Peach Cat" height="100" />
     
 </div>
+
+-->
