@@ -1,9 +1,9 @@
   # Hello, I'm Damian 👋
   <a href="https://www.linkedin.com/in/damivilla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@dsuyu"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://tryhackme.com/r/p/dsuyu"><img src="https://img.shields.io/badge/-TryHackMe-2d3748?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <br>
 
+Currently restructuring this page, come back soon! :)
+<!-- 
 <!--
 I am an undergraduate student working as an RSOC Student Analyst at my university! I have a deep interest in cybersecurity and a love for learning! 
 ### My Blog
@@ -12,7 +12,6 @@ Check out my [Medium blog](https://medium.com/@dsuyu) where I write about cybers
 - [Network Security Components](https://medium.com/@dsuyu/some-components-of-network-security-7959c0937d0f)
 - [Compliance, Laws, and Regulations](https://medium.com/@dsuyu/intro-to-compliance-laws-and-regulations-fc41777fbacf)
 
--->
     
 ## Projects and Skills
 ### 🏆 Favorite Projects
