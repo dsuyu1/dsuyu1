@@ -4,7 +4,7 @@
 
 Currently restructuring this page, come back soon! :)
 
-Visit my [website](damianvillarreal.com).
+Visit my [website](https://damianvillarreal.com/).
 <!-- 
 <!--
 I am an undergraduate student working as an RSOC Student Analyst at my university! I have a deep interest in cybersecurity and a love for learning! 
