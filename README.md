@@ -2,8 +2,6 @@
   <a href="https://www.linkedin.com/in/damivilla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
 
-Currently restructuring this page, come back soon! :)
-
 Visit my [website](https://damianvillarreal.com/).
 <!-- 
 <!--
